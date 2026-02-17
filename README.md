@@ -13,6 +13,9 @@ Technologies Used:
 - Python
 - Transformers (HuggingFace)
 
+Required Library:
+pip install transformers torch
+
 ---
 
 ### Task 2: Speech-to-Text System
