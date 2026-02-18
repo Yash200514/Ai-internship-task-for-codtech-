@@ -25,6 +25,12 @@ Technologies Used:
 - Python
 - SpeechRecognition
 
+Required Libraries:
+python -m pip install SpeechRecognition
+python -m pip install pydub
+python -m pip install pipwin
+pipwin install pyaudio
+
 ---
 
 ### Task 3: Neural Style Transfer
@@ -35,6 +41,8 @@ Technologies Used:
 - TensorFlow / PyTorch
 - OpenCV
 
+Required Libraries:
+
 ---
 
 ### Task 4: Text Generation Model
@@ -43,5 +51,7 @@ A model that generates paragraphs on specific topics using NLP techniques.
 Technologies Used:
 - Python
 - GPT / LSTM
+
+Required Libraries:
 
 
