@@ -26,10 +26,10 @@ Technologies Used:
 - SpeechRecognition
 
 Required Libraries:
-python -m pip install SpeechRecognition
-python -m pip install pydub
-python -m pip install pipwin
-pipwin install pyaudio
+python -m pip install SpeechRecognition ,
+python -m pip install pydub ,
+python -m pip install pipwin ,
+pipwin install pyaudio .
 
 ---
 
