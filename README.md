@@ -42,6 +42,11 @@ Technologies Used:
 - OpenCV
 
 Required Libraries:
+python -m pip install tensorflow ,
+python -m pip install tensorflow_hub ,
+python -m pip install pillow ,
+python -m pip install matplotlib .
+
 
 ---
 
